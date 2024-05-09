@@ -6,7 +6,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="/ED_Act13/jar/matematicas.jar"/>
-	<classpathentry kind="lib" path="lib/matematicas.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
