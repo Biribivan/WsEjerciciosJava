@@ -1,5 +1,9 @@
 package matematicas;
-
+/**
+ * Esta Clase que contiene los Métodos sumar, restar, multiplicar y dividir
+ * permite realizar las operaciones básicas pasando por parametro dos valores de tipo Double
+ * 
+ */
 public class ClaseMatematicas {
 	
 	public static double sumar(double n1,double n2) {
