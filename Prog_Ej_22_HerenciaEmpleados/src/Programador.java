@@ -53,7 +53,7 @@ public class Programador extends Empleado{
 	@Override
 	public void setSueldoBase(double sueldoBase) {
 		double salarioTotal = getSueldoBase();
-		System.out.println("Soy un programador y este es mi sueldo total: " +salarioTotal );
+		System.out.println("Soy un" +getClass().getSimpleName() + "este es mi sueldo total: " +salarioTotal );
 		super.setSueldoBase(sueldoBase);
 	}
 
